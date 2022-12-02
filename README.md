@@ -13,7 +13,7 @@ SSD: 1 Gb
 ⭕ ACTUAL MODULE VERSION: 1.3.4.2
 ⭕ Quick and easy installation guide. Follow the commands one by one:
 1
-
+#
 apt update
 2
 
